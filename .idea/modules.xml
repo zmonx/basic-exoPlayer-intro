@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/exoplayer-intro.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/exoplayer-intro.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/exoplayer-intro.exoplayer-codelab-00.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/exoplayer-intro.exoplayer-codelab-00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/exoplayer-intro.exoplayer-codelab-01.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/exoplayer-intro.exoplayer-codelab-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/exoplayer-intro.exoplayer-codelab-02.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/exoplayer-intro.exoplayer-codelab-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/exoplayer-intro.exoplayer-codelab-03.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/exoplayer-intro.exoplayer-codelab-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/exoplayer-intro.exoplayer-codelab-04.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/exoplayer-intro.exoplayer-codelab-04.iml" />
+    </modules>
+  </component>
+</project>
